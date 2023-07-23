@@ -30,7 +30,7 @@ This is an interactive command-line Social Network API application built with No
 
 The following link includes a video demo of the application's functionality:
 
-[NoSQL Video Demo]()
+[NoSQL Video Demo](https://drive.google.com/file/d/1xhdze1BLKVv7Vb_zT2PUVKSP50nzbDxc/view)
 
 
 ## Installation
